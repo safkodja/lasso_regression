@@ -17,3 +17,8 @@ Therefore, these variables must be excluded from the model, so that the model ob
 
 
 Medv = 25.86 – 0.057 crim + 0.021 zn   – 0.028 indus + 0.000 chas  – 0.000 nox + 2.466 rm  + 0.023 age - 0.558 dis - 0.717 ptratio  + 0.012 black - 0.720 lstat
+
+Besides that, from this model, we can see that some automatic variables have been excluded from the model which is has a coefficient of zero.
+![image](https://user-images.githubusercontent.com/68943747/171617268-25165ee6-6abe-4f32-9e05-0c8c98e7ad29.png)
+
+
